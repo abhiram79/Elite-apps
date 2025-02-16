@@ -33,7 +33,7 @@ parallel-jobs = 1
 [Music-Extended]
 enabled = false
 app-name = "Music"
-patches-source = "abhiram79/Elite-Patches"
+patches-source = "abhiram79/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
@@ -44,7 +44,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 [YouTube-Extended]
 enabled = false
 app-name = "YouTube"
-patches-source = "abhiram79/Elite-Patches"
+patches-source = "abhiram79/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
